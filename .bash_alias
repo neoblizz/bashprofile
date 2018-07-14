@@ -1,0 +1,9 @@
+# Command Aliases
+alias rm='rm -i'
+alias ..='cd ..'
+
+# SSH Aliases
+alias nvfusion='ssh mosama@nvfusion-dev.nvidia.com'
+alias blizzard='ssh muhammad@blizzard.ece.ucdavis.edu'
+alias mario='ssh mosama@mario.ece.ucdavis.edu'
+alias teamundead='ssh blizzard@teamundead.net'
